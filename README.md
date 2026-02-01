@@ -56,7 +56,9 @@ Building a production-grade portfolio focused on frontend architecture, controll
 
 <br/><br/>
 
-<img src="https://github-readme-terminal.vercel.app/?username=UDVarun&theme=dark" width="340" alt="Dark terminal SVG simulation" />
+<!-- Dark terminal simulation (GitHub-safe fallback) -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=900&color=22D3EE&center=true&vCenter=true&width=360&lines=%24+whoami;Varun+UD;%24+npm+run+dev;Starting+development+server..." alt="Dark terminal simulation" />
 
 <p style="color:#94a3b8; font-size:14px; margin-top:10px;">Designing • Building • Optimizing</p>
 
