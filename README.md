@@ -42,17 +42,17 @@ Building a production-grade portfolio focused on frontend architecture, controll
 
 <td width="45%" align="center" style="padding:16px;">
 
-<!-- Cybersecurity-themed primary GIF -->
+<!-- Animated developer illustration (clean, dark-friendly, GitHub-safe) -->
 
-<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/hacker.gif" width="300" alt="Cybersecurity hacker animation" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif" width="320" alt="Animated developer illustration" />
 
 <br/><br/>
 
-<!-- Cybersecurity terminal-style animated SVG (GitHub-safe) -->
+<!-- Subtle animated terminal-style SVG (safe) -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=900&color=22D3EE&center=true&vCenter=true&width=360&lines=%24+sudo+nmap+-sV+localhost;%24+Scanning+services...;%24+No+vulnerabilities+found" alt="Cybersecurity terminal simulation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=900&color=22D3EE&center=true&vCenter=true&width=360&lines=%24+whoami;Varun+UD;%24+Building+secure+systems" alt="Animated terminal simulation" />
 
-<p style="color:#94a3b8; font-size:14px; margin-top:10px;">Security • Performance • Reliability</p>
+<p style="color:#94a3b8; font-size:14px; margin-top:10px;">Designing • Building • Securing</p>
 
 </td>
 </tr>
