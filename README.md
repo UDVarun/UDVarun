@@ -24,7 +24,7 @@ I enjoy building products that balance **engineering clarity, scalability, and u
 ---
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,androidstudio,arduino,aws,azure,bash,c,cpp,docker,electron,express,figma,gitlab,linux,mongodb,postgres,py,supabase,vite,)](https://skillicons.dev)
 ---
 
 ## 🧱 Featured Projects
