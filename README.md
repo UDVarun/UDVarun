@@ -37,21 +37,12 @@ I enjoy building **real-world, production-grade applications** that emphasize ma
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDVarun&repo=UDVarun&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDVarun&repo=VocalWave&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🔹 Full-Stack Engineering Portfolio
-
-* CLS-safe animations
-* Predictable rendering behavior
-* Scalable component architecture
-* Deployed on Vercel
-
-### 🔹 VocalWave – Automated Voice Synchronization
-
-* AI-based transcription & translation
-* Whisper + Google Translator + gTTS
-* Streamlit-powered interface
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDVarun&repo=institute-portal&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
