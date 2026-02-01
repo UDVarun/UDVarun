@@ -42,9 +42,9 @@ Building a production-grade portfolio focused on frontend architecture, controll
 
 <td width="45%" align="center" style="padding:16px;">
 
-<!-- Animated developer illustration (clean, dark-friendly, GitHub-safe) -->
+<!-- Cyberpunk-style animated cartoon developer (dark, neon, GitHub-safe) -->
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif" width="320" alt="Animated developer illustration" />
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/cyberpunk.gif" width="320" alt="Cyberpunk cartoon developer animation" />
 
 <br/><br/>
 
