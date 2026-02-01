@@ -1,7 +1,8 @@
 <!-- PROFILE README – ILLUSTRATION STYLE (LIKE SHOWN IMAGE) -->
 
-<h2 align="center">Hi 👋, I'm Varun UD</h2>
-<p align="center">A passionate Full-Stack Software Engineer</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Varun%20UD&fontAlign=50&fontAlignY=40&color=0:020617,100:020617&fontColor=22d3ee" />
+
+<p align="center" style="color:#94a3b8">Full-Stack Software Engineer · Frontend Systems · Performance UI</p>
 
 ---
 
@@ -34,9 +35,10 @@
 
 ---
 
-### 📊 Most Used Languages
+### 🚧 Current Project
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDVarun&layout=compact&theme=tokyonight" />
+**Full-Stack Engineering Portfolio**
+Building a production-grade portfolio focused on frontend architecture, controlled animations, and performance-first UI systems using **Next.js, TypeScript, GSAP, and Framer Motion**.
 
 </td>
 
