@@ -56,12 +56,12 @@
 
 
 
-
-<img 
-  src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/animated-gif.svg" 
-  width="300"
-/>
-
+<td width="40%" align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/animated-gif.svg" 
+    width="300"
+  />
+</td>
 
 
 
