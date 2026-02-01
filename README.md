@@ -42,25 +42,17 @@ Building a production-grade portfolio focused on frontend architecture, controll
 
 <td width="45%" align="center" style="padding:16px;">
 
-<!-- Primary GIF (kept as requested) -->
+<!-- Cybersecurity-themed primary GIF -->
 
-<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/code.gif" width="300" alt="Developer coding animation" />
-
-<br/><br/>
-
-<!-- Secondary visual replaced with animated SVG (dark-theme, 100% clarity) -->
-
-<!-- Animated SVG (GitHub-safe, verified) -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=22D3EE&center=true&vCenter=true&width=340&lines=%24+npm+run+dev;%24+Building+frontend+systems;%24+Optimizing+performance" alt="Animated terminal typing SVG" />
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/hacker.gif" width="300" alt="Cybersecurity hacker animation" />
 
 <br/><br/>
 
-<!-- Dark terminal simulation (GitHub-safe fallback) -->
+<!-- Cybersecurity terminal-style animated SVG (GitHub-safe) -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=900&color=22D3EE&center=true&vCenter=true&width=360&lines=%24+whoami;Varun+UD;%24+npm+run+dev;Starting+development+server..." alt="Dark terminal simulation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=900&color=22D3EE&center=true&vCenter=true&width=360&lines=%24+sudo+nmap+-sV+localhost;%24+Scanning+services...;%24+No+vulnerabilities+found" alt="Cybersecurity terminal simulation" />
 
-<p style="color:#94a3b8; font-size:14px; margin-top:10px;">Designing • Building • Optimizing</p>
+<p style="color:#94a3b8; font-size:14px; margin-top:10px;">Security • Performance • Reliability</p>
 
 </td>
 </tr>
