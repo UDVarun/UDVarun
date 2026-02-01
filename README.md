@@ -76,14 +76,6 @@ I enjoy building **real-world, production-grade applications** that emphasize ma
 
 ---
 
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UDVarun&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Fun Fact
 
 > ⚡ I enjoy debugging UI performance issues so much that I often forget the time until everything feels perfectly smooth.
