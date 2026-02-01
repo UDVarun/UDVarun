@@ -55,10 +55,14 @@
 <td width="40%" align="center">
 
 
-<img 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" 
-  width="300"
-/>
+
+
+
+<img src="https://raw.githubusercontent.com/AbhishekSinghDhadwal/AbhishekSinghDhadwal/master/assets/coding.gif" width="300" />
+
+
+
+
 
 
 
