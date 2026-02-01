@@ -58,11 +58,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/AbhishekSinghDhadwal/AbhishekSinghDhadwal/master/assets/coding.gif" width="300" />
-
-
-
-
+<img src="https://raw.githubusercontent.com/AnuragHazra/AnuragHazra/master/assets/code.gif" width="300" />
 
 
 
