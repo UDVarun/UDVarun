@@ -50,13 +50,13 @@ Building a production-grade portfolio focused on frontend architecture, controll
 
 <!-- Secondary visual replaced with animated SVG (dark-theme, 100% clarity) -->
 
-<!-- Animated Dark Terminal SVG Simulation -->
+<!-- Animated SVG (GitHub-safe, verified) -->
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.svg" width="320" alt="Animated SVG developer graphic" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=22D3EE&center=true&vCenter=true&width=340&lines=%24+npm+run+dev;%24+Building+frontend+systems;%24+Optimizing+performance" alt="Animated terminal typing SVG" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-terminal/master/svg/terminal.svg" width="340" alt="Dark terminal SVG simulation" />
+<img src="https://github-readme-terminal.vercel.app/?username=UDVarun&theme=dark" width="340" alt="Dark terminal SVG simulation" />
 
 <p style="color:#94a3b8; font-size:14px; margin-top:10px;">Designing • Building • Optimizing</p>
 
