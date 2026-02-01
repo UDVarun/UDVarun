@@ -54,15 +54,7 @@
 
 <td width="40%" align="center">
 
-
-
-
-
-<img src="https://raw.githubusercontent.com/AnuragHazra/AnuragHazra/master/assets/code.gif" width="300" />
-
-
-
-
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 
 </td>
 </tr>
