@@ -1,32 +1,40 @@
-<!-- DARK • EXPERIMENTAL • ANIMATED GITHUB PROFILE README -->
+<!-- CYBERPUNK • GOOGLE-SWE-FOCUSED • DARK THEME GITHUB PROFILE README -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=VARUN%20UD&fontAlign=50&fontAlignY=35&color=0:0f172a,100:020617&fontColor=e5e7eb" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&text=VARUN%20UD&fontAlign=50&fontAlignY=50&color=0:020617,50:0f172a,100:020617&fontColor=22d3ee" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Frontend+Architecture+%7C+UI+Systems;Performance-Driven+Web+Engineering;Dark-Theme+First+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=22D3EE&center=true&vCenter=true&width=950&lines=Google-SWE-Oriented+Engineer;Frontend+Systems+%7C+Performance+UI;Scalable+Full-Stack+Engineering;Cyberpunk+Dark+Theme+Profile" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=UDVarun&label=PROFILE+VIEWS&color=0ea5e9&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=UDVarun&label=PROFILE+SIGNAL&color=22d3ee&style=flat" />
 
 </div>
 
 ---
 
-## ◼ SYSTEM PROFILE
+## ░ SYSTEM_ID
 
 ```txt
-Name        : Varun UD
-Role        : Full-Stack Software Engineer
-Focus       : Frontend Systems & Performance UI
-Theme       : Dark-first Engineering
-Mindset     : Production > Demo
+Engineer      : Varun UD
+Track         : Google SWE / Frontend Systems
+Core Strength : UI Architecture + Performance
+Principles    : Simplicity • Predictability • Scale
+Theme         : Cyberpunk Dark
 ```
 
 ---
 
-## ◼ TECH MATRIX
+## ░ ENGINEERING FOCUS (GOOGLE SIGNALS)
+
+* Deterministic rendering & state isolation
+* Performance-first UI (CLS, LCP, GPU-safe motion)
+* Component-driven architecture
+* Readable, review-friendly code
+* Real-world constraints over demo complexity
+
+---
+
+## ░ TECH STACK // MATRIX
 
 <div align="center">
 
@@ -36,7 +44,7 @@ Mindset     : Production > Demo
 
 ---
 
-## ◼ FEATURED SYSTEMS
+## ░ FEATURED SYSTEMS
 
 <div align="center">
 
@@ -48,7 +56,7 @@ Mindset     : Production > Demo
 
 ---
 
-## ◼ LIVE ANALYTICS
+## ░ LIVE TELEMETRY
 
 <div align="center">
 
@@ -65,7 +73,7 @@ Mindset     : Production > Demo
 
 ---
 
-## ◼ CONTRIBUTION SIGNAL
+## ░ CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -75,27 +83,27 @@ Mindset     : Production > Demo
 
 ---
 
-## ◼ ACHIEVEMENT WALL
+## ░ ACHIEVEMENT GRID
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=UDVarun&theme=onedark&no-frame=true&row=1&margin-w=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=UDVarun&theme=onedark&no-frame=true&row=1&margin-w=10" />
 
 </div>
 
 ---
 
-## ◼ FUN FACT
+## ░ FUN FACT
 
-> I tune animations until they feel **physically smooth**, not just visually correct.
+> I design UI motion the same way I debug systems — measure first, optimize second, animate last.
 
 ---
 
-## ◼ CONNECTION PORT
+## ░ CONNECT
 
 <div align="center">
 
-<a href="https://github.com/UDVarun"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/varunud"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://github.com/UDVarun"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" /></a> <a href="https://www.linkedin.com/in/varunud"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 
 </div>
 
@@ -103,6 +111,6 @@ Mindset     : Production > Demo
 
 <div align="center">
 
-<i>Dark-first engineering. Minimal noise. Maximum intent.</i>
+<i>Cyberpunk aesthetics. Google-level engineering discipline.</i>
 
 </div>
