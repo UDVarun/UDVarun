@@ -37,11 +37,15 @@ I enjoy building **real-world, production-grade applications** that emphasize ma
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDVarun&repo=VocalWave&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDVarun&repo=MetaAi&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDVarun&repo=institute-portal&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDVarun&repo=Brainwave-Matrix-Phase2&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UDVarun&repo=ProjectHub&theme=tokyonight" />
 </p>
 
 ---
@@ -49,12 +53,11 @@ I enjoy building **real-world, production-grade applications** that emphasize ma
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UDVarun&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=UDVarun&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UDVarun&show_icons=true&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDVarun&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=UDVarun&theme=tokyonight" height="180" />
 </p>
 
 ---
@@ -62,7 +65,15 @@ I enjoy building **real-world, production-grade applications** that emphasize ma
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UDVarun&theme=tokyonight&no-frame=true&margin-w=12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UDVarun&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UDVarun&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
