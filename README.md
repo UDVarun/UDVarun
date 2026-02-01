@@ -1,59 +1,53 @@
-# Hi, I’m Varun UD 👋
+<!-- PROFILE README – ILLUSTRATION STYLE (LIKE SHOWN IMAGE) -->
 
-**Full-Stack Software Engineer** with a strong focus on **frontend systems, performance optimization, and production-ready UI engineering**.
-
-I enjoy building scalable applications that prioritize **clean architecture, predictable rendering, and real-world performance constraints** over demo-level implementations.
-
----
-
-## 🧠 About Me
-
-* 💻 Full-Stack Engineer (Frontend-focused)
-* ⚙️ Interested in frontend architecture & system design
-* 🚀 Passionate about performance, maintainability, and clean code
-* 🌍 Open to global opportunities and impactful products
+<h2 align="center">Hi 👋, I'm Varun UD</h2>
+<p align="center">A passionate Full-Stack Software Engineer</p>
 
 ---
 
-## 🛠 Tech Stack
+<table>
+<tr>
+<td width="60%" valign="top">
 
-**Languages**
-JavaScript · TypeScript · Python · Java · C++
+### 👨‍💻 About Me
 
-**Frontend**
-React · Next.js · Tailwind CSS
-
-**Backend & Databases**
-Node.js · Express · MongoDB · MySQL
-
-**Tools & Platform**
-Git · GitHub · Docker · Linux · Vercel
-
----
-
-## 📌 Featured Work
-
-### Full-Stack Engineering Portfolio
-
-A production-grade portfolio showcasing frontend architecture, performance-focused UI, and scalable component design.
-
-### VocalWave – Automated Voice Synchronization
-
-An AI-based system for transcription, translation, and voice synchronization using modern ML tooling.
+* 🔭 Currently working on **Frontend Systems & Full-Stack Projects**
+* 🌱 Learning **performance optimization & scalable UI architecture**
+* 👯 Open to collaborate on **meaningful engineering projects**
+* 💬 Ask me about **React, Next.js, JavaScript, TypeScript**
+* 📫 Reach me at **[varunud@example.com](mailto:varunud@example.com)**
+* ⚡ Fun fact: I enjoy debugging UI performance issues until everything feels *just right*
 
 ---
 
-## 🎯 Fun Fact
+### 🌐 Connect With Me
 
-> I enjoy debugging UI performance issues so much that I often lose track of time until everything feels *just right*.
-
----
-
-## 📫 Connect
-
-* GitHub: [https://github.com/UDVarun](https://github.com/UDVarun)
-* LinkedIn: [https://www.linkedin.com/in/varunud](https://www.linkedin.com/in/varunud)
+<a href="https://github.com/UDVarun">GitHub</a> · <a href="https://www.linkedin.com/in/varunud">LinkedIn</a>
 
 ---
 
+### 🛠 Languages and Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,linux,git,github,vercel&perline=8" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDVarun&layout=compact&theme=tokyonight" />
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center"><em>Clean code. Scalable systems. Performance-first mindset.</em></p>
