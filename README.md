@@ -56,4 +56,4 @@ An AI-based system for transcription, translation, and voice synchronization usi
 
 ---
 
-*Minimal. Stable. No external services. Always works.*
+
