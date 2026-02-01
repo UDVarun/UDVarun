@@ -1,90 +1,49 @@
-<!-- RECRUITER-FIRST • STRIPPED CYBERPUNK • DARK THEME -->
+<!-- GOOGLE STEP / INTERN • SIMPLE • SMALL • CLEAN -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=VARUN%20UD&fontAlign=50&fontAlignY=55&color=0:020617,100:020617&fontColor=22d3ee" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;Frontend+Systems+%7C+Performance+UI;Google-SWE+Focused+Engineer" />
-
-</div>
+<h2 align="center">Hi, I’m Varun UD 👋</h2>
+<p align="center">Aspiring Software Engineer | Google STEP / SWE Intern Candidate</p>
 
 ---
 
-## ░ CANDIDATE SUMMARY
+## About Me
 
-**Full-Stack Software Engineer** with a strong focus on **frontend systems, UI architecture, and performance-driven web applications**.
+I’m a **Computer Science student and aspiring Software Engineer** with strong interest in **problem-solving, frontend systems, and building reliable software**.
 
-Experienced in building **production-grade interfaces** with predictable rendering, scalable component design, and performance-safe interactions. I prioritize **engineering clarity, maintainability, and real-world constraints** over demo-level complexity.
-
----
-
-## ░ ENGINEERING STRENGTHS
-
-* Frontend architecture (React / Next.js systems)
-* Performance optimization (CLS, LCP, GPU-safe motion)
-* Component-driven design & separation of concerns
-* Clean, review-friendly TypeScript codebases
-* Full-stack understanding with backend integration
+I enjoy learning how real-world products are designed, implemented, and optimized for performance and scalability.
 
 ---
 
-## ░ TECH STACK (CORE)
+## Skills
 
-**Languages**
-TypeScript · JavaScript · Python · Java · C++
-
-**Frontend**
-React · Next.js · Tailwind CSS
-
-**Backend & Data**
-Node.js · Express · MongoDB · MySQL
-
-**Platform & Tools**
-Git · GitHub · Docker · Linux · Vercel
+* **Languages:** JavaScript, TypeScript, Python, Java, C++
+* **Frontend:** React, Next.js, HTML, CSS, Tailwind
+* **Backend:** Node.js, Express
+* **Databases:** MongoDB, MySQL
+* **Tools:** Git, GitHub, Linux, Docker
 
 ---
 
-## ░ SELECTED PROJECTS
+## Projects
 
-### MetaAi
-
-Frontend-driven system emphasizing modular architecture and performance-oriented UI patterns.
-
-### Brainwave Matrix – Phase 2
-
-Scalable application with structured frontend components and clean state separation.
-
-### ProjectHub
-
-Centralized project platform demonstrating full-stack integration and maintainable code organization.
+* **MetaAi** – Frontend-focused project emphasizing clean component structure
+* **Brainwave Matrix (Phase 2)** – Scalable application with modular design
+* **ProjectHub** – Full-stack project integrating frontend and backend systems
 
 ---
 
-## ░ GITHUB SIGNALS
+## What I’m Looking For
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UDVarun&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
+* Internship opportunities (Google STEP / SWE Intern)
+* Learning-focused environments with strong engineering culture
+* Mentorship and real-world software development exposure
 
 ---
 
-## ░ FUN FACT
-
-> I treat UI performance issues the same way I treat system bugs — measure first, simplify second, optimize last.
-
----
-
-## ░ CONTACT
+## Contact
 
 * GitHub: [https://github.com/UDVarun](https://github.com/UDVarun)
 * LinkedIn: [https://www.linkedin.com/in/varunud](https://www.linkedin.com/in/varunud)
 
 ---
 
-<div align="center">
-
-<i>Cyberpunk aesthetic. Recruiter-first clarity. Engineering over noise.</i>
-
-</div>
+<p align="center"><em>Focused on learning fundamentals, writing clean code, and growing as an engineer.</em></p>
