@@ -48,11 +48,11 @@ Building a production-grade portfolio focused on frontend architecture, controll
 
 <br/><br/>
 
-<!-- Secondary GIF (clearer, dark-theme friendly) -->
+<!-- Secondary visual replaced with animated SVG (dark-theme, 100% clarity) -->
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Robot/3D/robot_3d.png" width="180" alt="Dark themed developer visual" />
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.svg" width="320" alt="Animated SVG developer graphic" />
 
-<p style="color:#94a3b8; font-size:14px; margin-top:10px;">Designing • Building • Optimizing</p>
+<p style="color:#94a3b8; font-size:14px; margin-top:10px;">Designing
 
 </td>
 </tr>
