@@ -42,9 +42,17 @@ Building a production-grade portfolio focused on frontend architecture, controll
 
 <td width="45%" align="center" style="padding:16px;">
 
-<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/code.gif" width="320" alt="Developer working" />
+<!-- Primary GIF (kept as requested) -->
 
-<p style="color:#94a3b8; font-size:14px;">Designing • Building • Optimizing</p>
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/code.gif" width="300" alt="Developer coding animation" />
+
+<br/><br/>
+
+<!-- Secondary GIF (clearer, dark-theme friendly) -->
+
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Robot/3D/robot_3d.png" width="180" alt="Dark themed developer visual" />
+
+<p style="color:#94a3b8; font-size:14px; margin-top:10px;">Designing • Building • Optimizing</p>
 
 </td>
 </tr>
