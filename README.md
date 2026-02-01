@@ -48,7 +48,8 @@ Building a production-grade portfolio focused on frontend architecture, controll
 
 </td>
 </tr>
-</t
+</table>
+</div>
 
 ---
 
