@@ -24,37 +24,7 @@ I enjoy building products that balance **engineering clarity, scalability, and u
 ---
 
 ## 🛠 Tech Stack
-
-### Languages
-
-* JavaScript / TypeScript
-* Python
-* Java
-* C++
-
-### Frontend
-
-* React 18
-* Next.js (App Router)
-* Tailwind CSS
-* Framer Motion
-* GSAP + ScrollTrigger
-
-### Backend & Databases
-
-* Node.js
-* Express
-* MongoDB
-* MySQL
-
-### DevOps & Tools
-
-* Git & GitHub
-* Docker
-* Linux
-* Vercel
-* Postman
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ---
 
 ## 🧱 Featured Projects
