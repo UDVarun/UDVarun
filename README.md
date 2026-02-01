@@ -1,7 +1,5 @@
-<!-- PROFILE README – ILLUSTRATION STYLE (LIKE SHOWN IMAGE) -->
-
 <h2 align="center">Hi 👋, I'm Varun UD</h2>
-<p align="center">A passionate Full-Stack Software Engineer</p>
+<p align="center">Full-Stack Software Engineer · UI Performance Enthusiast · Problem Solver</p>
 
 ---
 
@@ -11,22 +9,23 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 Currently working on **Frontend Systems & Full-Stack Projects**
-* 🌱 Learning **performance optimization & scalable UI architecture**
-* 👯 Open to collaborate on **meaningful engineering projects**
-* 💬 Ask me about **React, Next.js, JavaScript, TypeScript**
+* 🔭 Currently building **frontend systems & full-stack applications**
+* 🌱 Exploring **performance optimization, scalable UI architecture & clean code**
+* 👯 Looking to collaborate on **impactful engineering projects**
+* 💬 Ask me about **React, Next.js, JavaScript, TypeScript, APIs**
 * 📫 Reach me at **[varunud@example.com](mailto:varunud@example.com)**
-* ⚡ Fun fact: I enjoy debugging UI performance issues until everything feels *just right*
+* ⚡ Fun fact: I enjoy fixing UI performance issues until everything feels *buttery smooth*
 
 ---
 
 ### 🌐 Connect With Me
 
-<a href="https://github.com/UDVarun">GitHub</a> · <a href="https://www.linkedin.com/in/varunud">LinkedIn</a>
+<a href="https://github.com/UDVarun">GitHub</a> · 
+<a href="https://www.linkedin.com/in/varunud">LinkedIn</a>
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Languages & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,linux,git,github,vercel&perline=8" />
@@ -34,9 +33,22 @@
 
 ---
 
-### 📊 Most Used Languages
+### 🚀 Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDVarun&layout=compact&theme=tokyonight" />
+* **VocalWave – Automated Voice Synchronization**  
+  AI-powered video translation & dubbing using Whisper, Google Translate & TTS
+
+* **MySQL → MongoDB Migration Tool**  
+  Streamlit-based data migration utility for legacy applications
+
+* **Institute Portal (React)**  
+  Scalable frontend architecture with role-based access & modern UI
+
+---
+
+### 🔥 Consistency Matters
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UDVarun&theme=tokyonight" />
 
 </td>
 
@@ -50,4 +62,4 @@
 
 ---
 
-<p align="center"><em>Clean code. Scalable systems. Performance-first mindset.</em></p>
+<p align="center"><em>Clean code · Scalable systems · Performance-first mindset</em></p>
