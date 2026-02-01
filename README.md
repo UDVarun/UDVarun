@@ -6,32 +6,30 @@
 
 ---
 
-<table>
+<div align="center">
+<table style="width:100%; max-width:1000px; border-collapse:collapse;">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top" style="padding:16px;">
 
 ### 👨‍💻 About Me
 
-* 🔭 Currently working on **Frontend Systems & Full-Stack Projects**
+* 🔭 Working on **frontend systems & full-stack projects**
 * 🌱 Learning **performance optimization & scalable UI architecture**
-* 👯 Open to collaborate on **meaningful engineering projects**
-* 💬 Ask me about **React, Next.js, JavaScript, TypeScript**
-* 📫 Reach me at **[varunud@example.com](mailto:varunud@example.com)**
-* ⚡ Fun fact: I enjoy debugging UI performance issues until everything feels *just right*
+* 👯 Open to collaborate on **meaningful engineering work**
+* 💬 Ask me about **React, Next.js, TypeScript**
+* ⚡ Fun fact: I debug UI performance issues until they feel *physically smooth*
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect
 
 <a href="https://github.com/UDVarun">GitHub</a> · <a href="https://www.linkedin.com/in/varunud">LinkedIn</a>
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Languages & Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,linux,git,github,vercel&perline=8" />
-</p>
 
 ---
 
@@ -42,13 +40,15 @@ Building a production-grade portfolio focused on frontend architecture, controll
 
 </td>
 
-<td width="40%" align="center">
+<td width="45%" align="center" style="padding:16px;">
 
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/code.gif" width="320" alt="Developer working" />
+
+<p style="color:#94a3b8; font-size:14px;">Designing • Building • Optimizing</p>
 
 </td>
 </tr>
-</table>
+</t
 
 ---
 
