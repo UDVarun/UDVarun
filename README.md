@@ -13,7 +13,7 @@
 * 🌱 Exploring **performance optimization, scalable UI architecture & clean code**
 * 👯 Looking to collaborate on **impactful engineering projects**
 * 💬 Ask me about **React, Next.js, JavaScript, TypeScript, APIs**
-* 📫 Reach me at **[varunud@example.com](mailto:varunud@example.com)**
+* 📫 Reach me at **[varunud@example.com](mailto:varunud84@example.com)**
 * ⚡ Fun fact: I enjoy fixing UI performance issues until everything feels *buttery smooth*
 
 ---
